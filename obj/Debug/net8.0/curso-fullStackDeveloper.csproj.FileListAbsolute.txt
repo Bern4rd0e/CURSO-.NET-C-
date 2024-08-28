@@ -1,0 +1,14 @@
+/home/bernardo/Desktop/curso-fullStackDeveloper/bin/Debug/net8.0/curso-fullStackDeveloper
+/home/bernardo/Desktop/curso-fullStackDeveloper/bin/Debug/net8.0/curso-fullStackDeveloper.deps.json
+/home/bernardo/Desktop/curso-fullStackDeveloper/bin/Debug/net8.0/curso-fullStackDeveloper.runtimeconfig.json
+/home/bernardo/Desktop/curso-fullStackDeveloper/bin/Debug/net8.0/curso-fullStackDeveloper.dll
+/home/bernardo/Desktop/curso-fullStackDeveloper/bin/Debug/net8.0/curso-fullStackDeveloper.pdb
+/home/bernardo/Desktop/curso-fullStackDeveloper/obj/Debug/net8.0/curso-fullStackDeveloper.GeneratedMSBuildEditorConfig.editorconfig
+/home/bernardo/Desktop/curso-fullStackDeveloper/obj/Debug/net8.0/curso-fullStackDeveloper.AssemblyInfoInputs.cache
+/home/bernardo/Desktop/curso-fullStackDeveloper/obj/Debug/net8.0/curso-fullStackDeveloper.AssemblyInfo.cs
+/home/bernardo/Desktop/curso-fullStackDeveloper/obj/Debug/net8.0/curso-fullStackDeveloper.csproj.CoreCompileInputs.cache
+/home/bernardo/Desktop/curso-fullStackDeveloper/obj/Debug/net8.0/curso-fullStackDeveloper.dll
+/home/bernardo/Desktop/curso-fullStackDeveloper/obj/Debug/net8.0/refint/curso-fullStackDeveloper.dll
+/home/bernardo/Desktop/curso-fullStackDeveloper/obj/Debug/net8.0/curso-fullStackDeveloper.pdb
+/home/bernardo/Desktop/curso-fullStackDeveloper/obj/Debug/net8.0/curso-fullStackDeveloper.genruntimeconfig.cache
+/home/bernardo/Desktop/curso-fullStackDeveloper/obj/Debug/net8.0/ref/curso-fullStackDeveloper.dll
