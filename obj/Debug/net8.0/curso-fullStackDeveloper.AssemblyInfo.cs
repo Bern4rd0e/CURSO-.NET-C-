@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("curso-fullStackDeveloper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba28c67100edde77314d29c3206b5d1cfbc5bcff")]
 [assembly: System.Reflection.AssemblyProductAttribute("curso-fullStackDeveloper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("curso-fullStackDeveloper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

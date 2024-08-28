@@ -7,6 +7,7 @@
 /home/bernardo/Desktop/curso-fullStackDeveloper/obj/Debug/net8.0/curso-fullStackDeveloper.AssemblyInfoInputs.cache
 /home/bernardo/Desktop/curso-fullStackDeveloper/obj/Debug/net8.0/curso-fullStackDeveloper.AssemblyInfo.cs
 /home/bernardo/Desktop/curso-fullStackDeveloper/obj/Debug/net8.0/curso-fullStackDeveloper.csproj.CoreCompileInputs.cache
+/home/bernardo/Desktop/curso-fullStackDeveloper/obj/Debug/net8.0/curso-fullStackDeveloper.sourcelink.json
 /home/bernardo/Desktop/curso-fullStackDeveloper/obj/Debug/net8.0/curso-fullStackDeveloper.dll
 /home/bernardo/Desktop/curso-fullStackDeveloper/obj/Debug/net8.0/refint/curso-fullStackDeveloper.dll
 /home/bernardo/Desktop/curso-fullStackDeveloper/obj/Debug/net8.0/curso-fullStackDeveloper.pdb
